@@ -1,0 +1,94 @@
+* {
+  font-size: 10px;
+}
+.button button {
+  background-color: #4ad2cd;
+  color: white;
+  border: none;
+  width: 100%;
+  font-size: 1.4rem;
+  padding: 1.7rem;
+}
+.button button:active,
+.button button:focus {
+  outline: none;
+}
+.button button:active {
+  background-color: #0da9a4;
+}
+.main {
+  background: url(../img/bg-banner.jpg) center no-repeat;
+  background-size: cover;
+  padding-bottom: 20rem;
+}
+.main .header {
+  margin-top: 2.5rem;
+}
+.main .header a {
+  margin: 1rem;
+  font-size: 1.3rem;
+  color: black;
+  font-weight: 600;
+}
+.main .header a:hover {
+  color: #4ad2cd;
+  text-decoration: none;
+  font-weight: 600;
+}
+.main .header img {
+  width: 100%;
+}
+.main .banner {
+  margin: 2rem 0;
+  padding: 2rem 0;
+}
+.main .banner p {
+  font-size: 1.4rem;
+  color: #c0c0c0;
+  margin: 2.2rem 0;
+}
+.about {
+  text-align: center;
+  padding: 6rem;
+}
+.about p {
+  color: #c0c0c0;
+  font-size: 1.4rem;
+  margin: 2.2rem 0;
+}
+.skillsBG {
+  background: url(../img/bg-skills.jpg) center no-repeat;
+  background-size: cover;
+}
+.skills {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.05)));
+  background: linear-gradient(rgba(0, 0, 0, 0.05));
+  padding: 10rem;
+  border: 1px dotted #c0c0c0;
+}
+.skills p {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  text-transform: uppercase;
+}
+.skills .parrent {
+  width: 100%;
+  height: 2px;
+  background: #f2f2f2;
+  margin: 5px;
+}
+.skills .child {
+  height: 100%;
+  background: #4ad2cd;
+  border-bottom-right-radius: 10px;
+}
+.skills .design {
+  width: 75%;
+}
+.skills .development {
+  width: 90%;
+}
+.skills .marketing {
+  width: 65%;
+}
