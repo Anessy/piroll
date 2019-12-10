@@ -218,3 +218,11 @@ Modal Window
     font-size: 2.4rem;
   }
 }
+/*---------------------------*/
+.work-picture {
+  display: inline-block;
+  width: 19%;
+}
+.work img {
+  width: 100%;
+}
