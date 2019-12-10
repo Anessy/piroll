@@ -44,7 +44,7 @@
 }
 .main .banner p {
   font-size: 1.4rem;
-  color: #c0c0c0;
+  color: #a5a4a4;
   margin: 2.2rem 0;
 }
 .about {
@@ -52,7 +52,7 @@
   padding: 6rem;
 }
 .about p {
-  color: #c0c0c0;
+  color: #a5a4a4;
   font-size: 1.4rem;
   margin: 2.2rem 0;
 }
@@ -64,7 +64,7 @@
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.05)));
   background: linear-gradient(rgba(0, 0, 0, 0.05));
   padding: 10rem;
-  border: 1px dotted #c0c0c0;
+  border: 1px dotted #a5a4a4;
 }
 .skills p {
   font-size: 1.2rem;
@@ -225,7 +225,7 @@ Modal Window
   padding: 2.5rem 0;
 }
 .load-more a {
-  color: #c0c0c0;
+  color: #a5a4a4;
 }
 .load-more a:hover,
 .load-more a:focus,
@@ -262,7 +262,7 @@ Modal Window
 .process p {
   margin-bottom: 3rem;
   font-size: 1.4rem;
-  color: #c0c0c0;
+  color: #a5a4a4;
 }
 .process-child {
   position: absolute;
@@ -279,6 +279,7 @@ Modal Window
 }
 .services {
   text-align: center;
+  color: #a5a4a4;
 }
 .services .window {
   width: 90%;
