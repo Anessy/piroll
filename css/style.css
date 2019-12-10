@@ -277,3 +277,20 @@ Modal Window
   width: 100%;
   border: 1px dotted #4ad2cd;
 }
+.services {
+  text-align: center;
+}
+.services .window {
+  width: 90%;
+}
+.services img {
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+}
+.services .mainTEXT {
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.services .secondTEXT {
+  font-size: 1.1rem;
+}
