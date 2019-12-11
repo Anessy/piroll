@@ -326,3 +326,16 @@ Modal Window
   text-align: center;
   letter-spacing: 5px;
 }
+.clients {
+  margin: 4rem 0;
+}
+.clients h4 {
+  margin: 4rem 0;
+  color: #4ad2cd;
+  text-align: left;
+}
+.clients .clientsPICTURE {
+  text-align: center;
+  width: 19%;
+  display: inline-block;
+}
