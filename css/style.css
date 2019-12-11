@@ -268,7 +268,7 @@ Modal Window
   position: absolute;
   width: 60%;
   height: 75%;
-  top: 25rem;
+  top: 30%;
   left: 20%;
   padding-bottom: 12rem;
 }
@@ -294,4 +294,35 @@ Modal Window
 }
 .services .secondTEXT {
   font-size: 1.1rem;
+}
+.testimonials {
+  background-color: #4ad2cd;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  padding-bottom: 50%;
+}
+.FORfotorama {
+  position: absolute;
+  width: 60%;
+  height: 75%;
+  top: 10%;
+  left: 20%;
+}
+.FORfotorama .fotorama {
+  text-align: center;
+  padding-bottom: 2rem;
+  background: #4ad2cd url(../img/testimonials/0.jpg) center no-repeat;
+  color: white;
+}
+.FORfotorama .fotorama p {
+  font-size: 2.1rem;
+}
+.FORfotorama .fotorama .fotoramaTEXT {
+  padding-top: 25%;
+}
+.FORfotorama .fotorama h1 {
+  font-family: 'Pattaya', sans-serif;
+  text-align: center;
+  letter-spacing: 5px;
 }
